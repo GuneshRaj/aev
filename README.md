@@ -1,2 +1,5 @@
 # aev
-Web Scripting Language based on JSON
+Web Scripting Language.
+
+Database oriented language for business applications
+
